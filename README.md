@@ -1,1 +1,1 @@
-# Leetcode
+# Leetcode (Daily Question)
